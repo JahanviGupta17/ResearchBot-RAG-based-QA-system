@@ -1,7 +1,8 @@
 # **ResearchBot – AI-Powered Research Assistant**
 
 **Transforming research papers into actionable insights using LLMs and RAG pipelines.**
-
+## **System Interface**
+![ResearchBot Dashboard](image.png)
 ---
 
 ## **Problem Statement**
