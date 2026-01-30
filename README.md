@@ -1,7 +1,7 @@
 # 📚 ResearchBot – AI-Powered Research Assistant
 
 <p align="center">
-  <img src="image.png" alt="ResearchBot Banner" width="100%">
+  <img src="demoimg.png" alt="ResearchBot Banner" width="100%">
 </p>
 
 <p align="center">
